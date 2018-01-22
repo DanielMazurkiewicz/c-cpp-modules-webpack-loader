@@ -1,0 +1,30 @@
+{
+  "name": "c-cpp-modules-webpack-loader",
+  "version": "0.9.9",
+  "description": "Webpack loader that compiles C and C++ to WASM using Emscripten",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMazurkiewicz/c-cpp-modules-webpack-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "emscripten",
+    "c",
+    "c++",
+    "bundling"
+  ],
+  "author": "Daniel Mazurkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMazurkiewicz/c-cpp-modules-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/DanielMazurkiewicz/c-cpp-modules-webpack-loader#readme"
+}
